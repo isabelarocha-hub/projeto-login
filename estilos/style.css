@@ -96,6 +96,7 @@ form > a.botao:hover {
 form > div.campo {
     background-color: #6d4d69 ;
     border-radius: 5px;
+    align-items: center;
     width: 100%;
     height: 40px;
     margin: 5px 0px;
