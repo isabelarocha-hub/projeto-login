@@ -27,10 +27,13 @@
         display:flex;
     }
     section#login > div#imagem {
-        width: 30%;
+        width: 50%;
         height: 100%;
     }
     section#login > div#formulario {
-        width: 70%;
+        width: 50%;
     }
+    div#formulario > p {
+    font-size: 1.2em;
+}
 }
